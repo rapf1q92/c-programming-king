@@ -1,4 +1,4 @@
-//a program that prints a table showing how many times each digit appears in the number
+// a program that prints a table showing how many times each digit appears in the number
 // rapf 16-sep-2026
 
 #include <stdio.h>
