@@ -18,7 +18,7 @@ int main(void)
         n /= 10;
     }
 
-    printf("Digit:     ");
+    printf("Digit:      ");
     for (j = 0; j < 10; j++) {
         printf("%4d", j);
     }
