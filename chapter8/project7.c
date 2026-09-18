@@ -37,4 +37,5 @@ int main(void)
         c_sum = 0;
     }
 
+    return 0;
 }
