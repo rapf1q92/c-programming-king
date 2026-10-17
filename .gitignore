@@ -1,6 +1,4 @@
-exercise01
-*.exe
+﻿*.exe
+*.o
+
 .vscode/
-project16_2.c
-project17_2.c
-chapter9/examples/
